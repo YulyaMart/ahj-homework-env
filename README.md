@@ -1,4 +1,3 @@
-# Webpack5
+# Домашнее задание к занятию "1. Рабочее окружение"
 
-[Руководство по настройке Webpack](https://webpack.js.org/guides/)
-[Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
+![CI](https://github.com/<YlyaMart>/<ahj-homework-env>/actions/workflows/web.yml/badge.svg)
